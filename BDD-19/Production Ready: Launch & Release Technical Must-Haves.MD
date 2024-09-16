@@ -39,6 +39,7 @@ marp: true
   - Clear folder structures
   - Separation of concerns
   - Documentation and coding standards
+  - PR primer https://github.com/DevelopersClubRS/BDD-meetups/blob/feat-bdd-19/BDD-19/pr_primer.md
 
 ---
 
