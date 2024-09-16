@@ -20,6 +20,12 @@ marp: true
 - **Disaster Recovery & Monitoring**
 - **Load & Smoke Testing**
 - **Validation, Error Logs & Alerts**
+- **Notes on Language & Framework Specifics**:
+  - Python Specifics
+  - Node.js Specifics
+  - .NET Specifics
+  - Java Spring Specifics
+
 - **Q&A**
 
 ---
@@ -42,6 +48,18 @@ marp: true
   - Separation of concerns
   - Documentation and coding standards
   - PR primer https://github.com/DevelopersClubRS/BDD-meetups/blob/feat-bdd-19/BDD-19/pr_primer.md
+
+- **Comprehensive Documentation**
+  - **Architecture Decision Records (ADRs)**
+    - Document key architectural decisions
+    - Provide context and reasoning
+    - Facilitate onboarding and knowledge sharing
+  - **Overview Diagrams**
+    - High-level system architecture visuals
+    - Show components and their interactions
+  - **Sequence Diagrams**
+    - Detail flows and protocols
+    - Illustrate interactions over time
 
 ---
 
