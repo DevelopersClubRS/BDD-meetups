@@ -11,6 +11,8 @@ marp: true
 
 - **Introduction**
 - **Architecture & Organization**
+- **Databases & Indexing**
+- **Frontend Production Pitfalls & Best Practices**
 - **Testing & QA Flow**
 - **Error Handling & Logging**
 - **Docker Setup**
