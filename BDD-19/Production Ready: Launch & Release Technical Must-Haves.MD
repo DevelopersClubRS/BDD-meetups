@@ -43,6 +43,55 @@ marp: true
 
 ---
 
+## Databases & Indexing
+
+- **Importance of Proper Indexing**
+  - **Performance Optimization**
+    - Speeds up query execution times
+    - Essential for handling large datasets
+  - **Scalability**
+    - Supports efficient data retrieval as data grows
+  - **Resource Utilization**
+    - Reduces CPU and memory usage
+
+- **Common Pitfalls**
+  - **Missing Indexes**
+    - Leads to full table scans and slow queries
+  - **Over-Indexing**
+    - Excessive indexes can slow down write operations
+    - Increases storage and maintenance overhead
+  - **Fragmented Indexes**
+    - Degraded performance over time if not maintained
+  - **Unoptimized Queries**
+    - Even with indexes, poorly written queries can hamper performance
+
+- **Best Practices**
+  - **Analyze Query Patterns**
+    - Use `EXPLAIN` plans to understand query execution
+    - Identify slow queries with profiling tools
+  - **Index Strategically**
+    - Index columns used frequently in `WHERE`, `JOIN`, `ORDER BY`, and `GROUP BY` clauses
+    - Use composite indexes for multi-column searches
+  - **Regular Maintenance**
+    - Rebuild or reorganize indexes periodically
+    - Update statistics for the query optimizer
+  - **Monitor Performance**
+    - Set up alerts for slow queries
+    - Use monitoring tools like New Relic, Datadog, or built-in database monitors
+
+- **Advanced Techniques**
+  - **Partitioning and Sharding**
+    - Distribute data across multiple tables or databases
+    - Improves performance and manageability
+  - **Caching Mechanisms**
+    - Use in-memory caches like Redis or Memcached
+    - Reduce database load for read-heavy applications
+  - **Database-Specific Features**
+    - Utilize full-text search indexes
+
+---
+
+
 ## Project Dependencies Version Lock
 
 - **Importance of Pinning Versions**
