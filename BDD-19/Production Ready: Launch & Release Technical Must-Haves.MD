@@ -43,6 +43,36 @@ marp: true
 
 ---
 
+## Project Dependencies Version Lock
+
+- **Importance of Pinning Versions**
+  - **Consistency Across Environments**
+    - Ensures all team members and environments use the same dependency versions
+  - **Reproducibility**
+    - Makes builds and deployments predictable and repeatable
+  - **Stability**
+    - Prevents unexpected behavior from untested dependency updates
+
+- **Pitfalls of Not Pinning Versions**
+  - **Breaking Changes**
+    - Unpinned dependencies may introduce breaking changes in minor or patch releases
+  - **Security Vulnerabilities**
+    - Risk of unintentionally introducing vulnerabilities with automatic updates
+  - **Difficult Debugging**
+    - Hard to replicate issues if dependencies change over time
+
+- **Best Practices**
+  - **Use Lock Files**
+    - Languages and package managers provide lock files (e.g., `package-lock.json`, `Pipfile.lock`, `Gemfile.lock`)
+  - **Semantic Versioning Awareness**
+    - Be cautious with version ranges (`^`, `~`); they allow automatic updates
+  - **Regular Updates**
+    - Manually update dependencies in a controlled manner and test thoroughly
+  - **Automated Tools**
+    - Utilize Dependabot, Renovate, or similar tools for managing dependency updates
+
+---
+
 ## Testing & QA Flow
 
 - **Comprehensive Testing**
