@@ -16,6 +16,7 @@ marp: true
 - **Testing & QA Flow**
 - **Error Handling & Logging**
 - **Docker Setup**
+- **Interaction with EXTERNAL services/providers**
 - **Deployment Strategy & Infrastructure**
 - **Disaster Recovery & Monitoring**
 - **Load & Smoke Testing**
@@ -245,7 +246,71 @@ marp: true
 - **Best Practices**
   - Minimal base images
   - Immutable infrastructure principles
+Here is the suggested content slide for **Interaction with External Services/Providers**:
 
+---
+
+## Interaction with External Services/Providers
+
+### Integration Challenges
+
+- **API Rate Limiting**
+  - Ensure your application respects rate limits imposed by external services (e.g., APIs).
+  - Use retry mechanisms with exponential backoff for handling temporary unavailability.
+  
+- **Authentication & Authorization**
+  - **OAuth2**, API keys, or certificates: Ensure secure integration.
+  - Use token refresh mechanisms and store credentials securely (e.g., Vault, AWS Secrets Manager).
+
+- **Network & Latency Considerations**
+  - External services add latency; use caching for frequent external calls (e.g., Redis, CDN).
+  - Monitor network timeouts and consider fallback mechanisms if a service is down.
+
+### Certification & Compliance Requirements
+
+- **Payment Providers (e.g., Stripe, PayPal)**
+  - Ensure PCI compliance if dealing with payment gateways.
+  - Consider certification requirements like Strong Customer Authentication (SCA) in Europe.
+  
+- **Cloud Services (e.g., AWS, Azure)**
+  - Ensure cloud service interactions are optimized and compliant with data residency regulations (GDPR, etc.).
+  - Set up network peering, VPN, or dedicated connections if necessary for high-security systems.
+
+- **Email & Notification Services (e.g., SendGrid, Twilio)**
+  - Manage email deliverability: SPF, DKIM, and DMARC records.
+  - Handle SMS delivery issues with country-specific rules and delays.
+
+### Difficult Integrations to Double-Check
+
+- **ERP Systems (e.g., SAP, Oracle)**
+  - Complex workflows and dependencies; ensure proper staging before going live.
+  - Handle large volumes of data with asynchronous processing and batch jobs.
+  
+- **Logistics Providers (e.g., UPS, DHL APIs)**
+  - Fluctuations in service availability can disrupt order fulfillment.
+  - Ensure you’re using the latest API version and compliant with the provider’s certification processes.
+
+- **Government Systems (e.g., Tax/VAT APIs)**
+  - Regularly updated regulations may require re-certifications and re-validation.
+  - Test thoroughly with sandbox environments to ensure compliance.
+
+### Best Practices for Production
+
+- **Pre-Production Testing**
+  - Test in staging environments that closely mimic production.
+  - Ensure all integrations with external services are functioning as expected in a production-like setup.
+
+- **Monitor and Log External Calls**
+  - Use monitoring tools (e.g., AWS CloudWatch, Prometheus) to observe external service performance.
+  - Implement detailed logging for external calls to quickly diagnose integration issues.
+
+- **Fallback & Circuit Breakers**
+  - Implement circuit breakers to gracefully handle external service failures (e.g., Hystrix, Resilience4j).
+  - Have a fallback system in place if critical services fail.
+
+---
+
+This slide emphasizes the importance of thoroughly understanding the limitations and challenges associated with integrating external services and highlights some common pain points and best practices to address them.
 ---
 
 ## Deployment Strategy & Infrastructure
