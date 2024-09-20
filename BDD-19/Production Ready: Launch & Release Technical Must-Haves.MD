@@ -246,7 +246,6 @@ marp: true
 - **Best Practices**
   - Minimal base images
   - Immutable infrastructure principles
-Here is the suggested content slide for **Interaction with External Services/Providers**:
 
 ---
 
@@ -307,10 +306,6 @@ Here is the suggested content slide for **Interaction with External Services/Pro
 - **Fallback & Circuit Breakers**
   - Implement circuit breakers to gracefully handle external service failures (e.g., Hystrix, Resilience4j).
   - Have a fallback system in place if critical services fail.
-
----
-
-This slide emphasizes the importance of thoroughly understanding the limitations and challenges associated with integrating external services and highlights some common pain points and best practices to address them.
 ---
 
 ## Deployment Strategy & Infrastructure
