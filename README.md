@@ -8,7 +8,7 @@
 
 📣BDD #16 Programski jezici - Analiza upotrebe i zajednice 🚀
 
-📣BDD #15 VeloxDB - A locally grown database 🚀
+[📣BDD #15 VeloxDB - A locally grown database 🚀](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-15)
 
 📣 БДД #14: Ментално здравље, спречавање прегоравања и процес опоравка 🌟🧠
 
@@ -28,7 +28,7 @@
 
 [📣 BDD #6 - A Deep Dive into the Do's and Don'ts of Database Management](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-6)
 
-📣 BDD #5 - Backends for frontends
+[📣 BDD #5 - Backends for frontends(https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-5)
 
 📣 BDD #4 - Etička odgovornost developera
 
