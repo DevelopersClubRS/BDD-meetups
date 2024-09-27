@@ -28,7 +28,7 @@
 
 [📣 BDD #6 - A Deep Dive into the Do's and Don'ts of Database Management](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-6)
 
-[📣 BDD #5 - Backends for frontends(https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-5)
+[📣 BDD #5 - Backends for frontends](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-5)
 
 📣 BDD #4 - Etička odgovornost developera
 
