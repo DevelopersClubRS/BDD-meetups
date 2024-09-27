@@ -1,9 +1,7 @@
----
 ### SLAJDOVI 
 
 - [BDD19 SLAJDOVI](./BDD-19.pdf)
 
----
 ### RESURSI
 
 - BDD 12 odgledati!!!
