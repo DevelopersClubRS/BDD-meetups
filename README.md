@@ -14,7 +14,7 @@
 
 [📣 BDD #13: The Renaissance of Angular: Philosophical Reflections of v17🌌](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-13)
 
-📣 BDD #12: CQRS - Do you really need two databases?
+[ 📣 BDD #12: CQRS - Do you really need two databases?](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-12)
 
 [📣 BDD #11: Measuring Developer Productivity](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-11)
 
