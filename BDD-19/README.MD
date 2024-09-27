@@ -1,6 +1,6 @@
 ### SLAJDOVI 
 
-- [BDD19 SLAJDOVI](./BDD-19.pdf)
+- [BDD19 SLAJDOVI](./BDD19.pdf)
 
 ### RESURSI
 
