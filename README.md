@@ -26,7 +26,7 @@
 
 [📣 BDD #7 - From Guesswork to Accuracy - A Discussion on Effective Estimation](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-7)
 
-📣 BDD #6 - A Deep Dive into the Do's and Don'ts of Database Management
+[📣 BDD #6 - A Deep Dive into the Do's and Don'ts of Database Management](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-6)
 
 📣 BDD #5 - Backends for frontends
 
