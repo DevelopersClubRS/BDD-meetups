@@ -1,7 +1,7 @@
 ---
 ### SLAJDOVI 
 
-- https://bit.ly/bdd-19
+- [BDD19 SLAJDOVI](./BDD-19.pdf)
 
 ---
 ### RESURSI
