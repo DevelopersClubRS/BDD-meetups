@@ -2,7 +2,7 @@
 
 [📣 BDD #19 Production Ready: Launch & Release Technical Must-Haves 🚀](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-19)
 
-📣 BDD #18 - Developer War Stories
+[📣 BDD #18 - Developer War Stories](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-18)
 
 📣 BDD #17: 🌐🔤 Višejezične API biblioteke za SaaS📚💻
 
@@ -12,19 +12,19 @@
 
 📣 БДД #14: Ментално здравље, спречавање прегоравања и процес опоравка 🌟🧠
 
-📣 BDD #13: The Renaissance of Angular: Philosophical Reflections of v17🌌
+[📣 BDD #13: The Renaissance of Angular: Philosophical Reflections of v17🌌](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-13)
 
 📣 BDD #12: CQRS - Do you really need two databases?
 
-📣 BDD #11: Measuring Developer Productivity
+[📣 BDD #11: Measuring Developer Productivity](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-11)
 
 📣 BDD #10: Developer War Stories 🚀
 
 📣 BDD #9 - Impact of junior developer learning curve on development speed
 
-📣 BDD #8 - Incident response
+[📣 BDD #8 - Incident response](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-8)
 
-📣 BDD #7 - From Guesswork to Accuracy - A Discussion on Effective Estimation
+[📣 BDD #7 - From Guesswork to Accuracy - A Discussion on Effective Estimation](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-7)
 
 📣 BDD #6 - A Deep Dive into the Do's and Don'ts of Database Management
 
