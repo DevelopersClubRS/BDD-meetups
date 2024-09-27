@@ -1,7 +1,14 @@
+---
+marp: true
+---
+
+
+
 ### SLAJDOVI 
 
 - https://bit.ly/bdd-19
 
+---
 ### RESURSI
 
 - BDD 12 odgledati!!!
