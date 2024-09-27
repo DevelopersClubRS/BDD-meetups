@@ -1,9 +1,3 @@
----
-marp: true
----
-
-
-
 ### SLAJDOVI 
 
 - https://bit.ly/bdd-19
