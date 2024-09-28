@@ -4,7 +4,7 @@
 
 [📣 BDD #18 - Developer War Stories](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-18)
 
-📣 BDD #17: 🌐🔤 Višejezične API biblioteke za SaaS📚💻
+[📣 BDD #17: 🌐🔤 Višejezične API biblioteke za SaaS📚💻](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-17)
 
 📣BDD #16 Programski jezici - Analiza upotrebe i zajednice 🚀
 
