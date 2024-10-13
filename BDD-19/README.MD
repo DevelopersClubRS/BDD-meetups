@@ -4,7 +4,9 @@
 
 ### RESURSI
 
-- BDD 12 odgledati!!!
+- BDD 12 odgledati!!! https://youtu.be/oFJdplApwhA?si=iguFyEQVIWAbS4FR
+
+
 
 ### PITFALLS
 
