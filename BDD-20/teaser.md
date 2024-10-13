@@ -53,6 +53,8 @@ sequenceDiagram
    - **Real-Life Example**: A project manager assigns tasks but allows team members to execute them autonomously, trusting their expertise.
    
    - **Software Example**: In ride-sharing apps, a central dispatch service matches riders with drivers. Once matched, drivers independently navigate to pick-up and drop-off locations without further instructions from the dispatcher, allowing for flexibility and efficiency.
+  
+```mermaid
 sequenceDiagram
     participant Orchestrator
     participant ServiceA
@@ -65,7 +67,7 @@ sequenceDiagram
     ServiceB-->>Orchestrator: Response B
     Orchestrator->>ServiceC: Request C
     ServiceC-->>Orchestrator: Response C
-
+```
 ---
 
 4. **Time Travel Saga** ⏳
