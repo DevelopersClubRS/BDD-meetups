@@ -1,5 +1,7 @@
 # BDD-meetups
 
+[📣 BDD #20: Building Software Architecture from First Principles](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-20)
+
 [📣 BDD #19 Production Ready: Launch & Release Technical Must-Haves 🚀](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-19)
 
 [📣 BDD #18 - Developer War Stories](https://github.com/DevelopersClubRS/BDD-meetups/tree/main/BDD-18)
